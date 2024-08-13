@@ -1,9 +1,5 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "inspired_app",
-      "package_name": "com.samadtch.inspired",
-      "sha256_cert_fingerprints":
-      ["99:F3:B2:9C:19:E6:65:90:F1:BC:85:59:2E:AE:15:3C:F2:C9:A0:C9:5E:A5:A7:77:67:C8:8A:80:11:68:7F:FB"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.samadtch.inspired",
+               "sha256_cert_fingerprints": ["99:F3:B2:9C:19:E6:65:90:F1:BC:85:59:2E:AE:15:3C:F2:C9:A0:C9:5E:A5:A7:77:67:C8:8A:80:11:68:7F:FB"] }
+}]

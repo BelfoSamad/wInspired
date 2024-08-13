@@ -5,8 +5,8 @@
 :root {
   --font: "Inter", sans-serif;
   --body-color: #637381;
-  --heading-color: #161F00;
-  --primary-color: #DAEF68;
+  --heading-color: #FFFFFF;
+  --primary-color: #6105C2;
   --white: #FFFFFF;
 }
 
@@ -589,7 +589,7 @@ p {
 }
 
 .ud-hero-buttons .ud-white-btn {
-  background: #000000;
+  background: #ffffff;
   color: var(--primary-color);
 }
 

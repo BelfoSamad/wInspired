@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.samadtch.inspired",
-      "sha256_cert_fingerprints":
-        ["63:AE:08:02:70:C2:17:01:B8:6A:0D:09:4C:53:FB:E9:3B:3C:48:18:20:CF:6B:CE:60:65:0F:39:12:74:8A:21"]
+      "sha256_cert_fingerprints": [
+        "63:AE:08:02:70:C2:17:01:B8:6A:0D:09:4C:53:FB:E9:3B:3C:48:18:20:CF:6B:CE:60:65:0F:39:12:74:8A:21"
+      ]
     }
   }
 ]
